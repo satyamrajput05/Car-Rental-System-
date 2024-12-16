@@ -8,7 +8,7 @@ Features:-
 🚗 Car Management: Manage cars, brands, models, and pricing details. 📝 Rental History: Keep track of rentals, customers, and rental durations.
 
 Getting Started
-Clone the Repo: git clone https://github.com/prabhatthakuryt/Car-Rental-System.git
+Clone the Repo: git clone https://github.com/satyamrajput05/Car-Rental-System-
 Contributions Welcome! 🎉
 Contribute to the project's growth. Open issues, submit pull requests, and collaborate with the community.
 
